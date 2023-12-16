@@ -1,2 +1,2 @@
 # steuGPT
-implementation nanoGPT for learning purpose
+implementation of some GenAI solutions for learning purpose
